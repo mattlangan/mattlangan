@@ -1,4 +1,4 @@
-I'm a lifelong builder and consumer of internet-powered things. The software I've designed and built has been seen and touched by tens (if not hundreds) of millions of people as they've engaged with brands like Facebook, FIFA, Ubisoft, RCA Records, and the International Olympic Committee.
+I like creating internet-powered things. The software I've designed and built has been seen and touched by tens (if not hundreds) of millions of people as they've engaged with brands like Facebook, FIFA, Ubisoft, RCA Records, and the International Olympic Committee.
 
 ## :dart: Darts
 
